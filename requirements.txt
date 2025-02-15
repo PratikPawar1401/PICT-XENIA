@@ -1,0 +1,17 @@
+streamlit
+numpy
+pandas
+plotly
+matplotlib
+seaborn
+scipy
+statsmodels
+tensorflow
+scikit-learn
+geemap
+earthengine-api
+folium
+pydeck
+twilio
+requests
+dotenv
